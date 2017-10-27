@@ -1,0 +1,70 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 80}, {236, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "answerlabel",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "FD05CEC1-BF96-4782-9E0D-FC01D5954280",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Malcolm McCarthy",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 196}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "ontariolabel",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "C2835FB4-25FE-46F7-AA05-B8CC2311A77F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "ontario",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 131}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "6FCB1F35-A6DB-4239-9671-97860985CD7F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "ottawa",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
